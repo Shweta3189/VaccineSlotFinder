@@ -4,4 +4,4 @@ The govt API used is : https://apisetu.gov.in/public/marketplace/api/cowin/cowin
 
 It is deployed on Google Firebase.
 
-Link to the Web-App: 
+Link to the Web-App: https://cowin-vaccine-caf55.web.app/
